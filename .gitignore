@@ -1,0 +1,7 @@
+# Ingore file named 
+
+# Ingore folder named 'data'
+data/
+
+# Ignore all .pyc fils
+*.pyc
