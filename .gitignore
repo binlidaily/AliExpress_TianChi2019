@@ -2,6 +2,7 @@
 
 # Ingore folder named 'data'
 data/
+.ipynb_checkpoints/
 
 # Ignore all .pyc fils
 *.pyc
